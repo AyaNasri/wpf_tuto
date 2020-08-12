@@ -23,6 +23,8 @@ namespace WpfApp1
         public MainWindow()
         {
             InitializeComponent();
+            int a = 10;
+            Console.WriteLine(a);
         }
     }
 }
