@@ -26,6 +26,7 @@ namespace WpfApp1
             int a = 10;
             Console.WriteLine(a);
             // comment from remote
+            // and this is another local edit
         }
     }
 }
