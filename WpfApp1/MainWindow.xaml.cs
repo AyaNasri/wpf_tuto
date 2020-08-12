@@ -25,8 +25,7 @@ namespace WpfApp1
             InitializeComponent();
             int a = 10;
             Console.WriteLine(a);
-            // commit from local laptop
-            // second local commit
+            // comment from remote
         }
     }
 }
